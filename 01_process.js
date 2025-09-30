@@ -74,7 +74,7 @@ switch (codigo) {
 //     "cat": "Bon dia"
 // }
 
-
+const saludo = require('./idiomas.js')
 
 if (codigo in saludo) {
     console.log(saludo[codigo]);

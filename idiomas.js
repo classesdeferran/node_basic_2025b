@@ -5,6 +5,8 @@ const saludo = {
     "cat": "Bon dia"
 }
 
+module.exports = saludo;
+
 
 
 
